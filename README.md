@@ -8,3 +8,4 @@
 ## Links dia 1
 - [6 Strategies for Migrating Applications to the Cloud](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
 - [Valkey vs Redis](https://aws.amazon.com/elasticache/redis/)
+- [Anuncio do S3 Files](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/?refid=a5b0f063-4b6f-4dc0-a834-8fc458c2ceed)
