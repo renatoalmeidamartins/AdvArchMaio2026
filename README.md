@@ -14,3 +14,6 @@
 - [Outra forma de permissoes cross-account](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-cross-account-resource-access.html)
 - [AWS Consolidated billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-procedure.html)
 - [Lista de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
+- [Boas estratégias de organização de multiplas contas](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
+- [Accelerated site-to-site VPN](https://aws.amazon.com/blogs/architecture/improve-vpn-network-performance-of-aws-hybrid-cloud-with-global-accelerator/)
+- [Conexoes de VPN redundantes](https://docs.aws.amazon.com/vpn/latest/s2svpn/vpn-redundant-connection.html)
