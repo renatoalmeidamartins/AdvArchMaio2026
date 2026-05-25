@@ -13,3 +13,4 @@
 - [Atribuindo permissoes para assumir roles em outra conta](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
 - [Outra forma de permissoes cross-account](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-cross-account-resource-access.html)
 - [AWS Consolidated billing](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-procedure.html)
+- [Lista de controles do control tower](https://docs.aws.amazon.com/controltower/latest/controlreference/controls-reference.html)
