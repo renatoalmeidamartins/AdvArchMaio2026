@@ -21,3 +21,5 @@
 - [Preços diversos de VPN, atenção ao high-bandwidth (5Gbps) e as demais opções](https://aws.amazon.com/vpn/pricing/)
 - [VPN de 5Gbps introduzida no final de 2025](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/)
 - [VPN conscentrator, cujo objetivo é conectar 25+ sites, sem demanda de alta largura de banda](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-concentrator/)
+- [Lançado o direct connect multiclod](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/)
+- [Direct connect suporta 400 GB](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations/)
