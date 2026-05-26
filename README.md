@@ -17,3 +17,7 @@
 - [Boas estratégias de organização de multiplas contas](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
 - [Accelerated site-to-site VPN](https://aws.amazon.com/blogs/architecture/improve-vpn-network-performance-of-aws-hybrid-cloud-with-global-accelerator/)
 - [Conexoes de VPN redundantes](https://docs.aws.amazon.com/vpn/latest/s2svpn/vpn-redundant-connection.html)
+## Links do dia 2
+- [Preços diversos de VPN, atenção ao high-bandwidth (5Gbps) e as demais opções](https://aws.amazon.com/vpn/pricing/)
+- [VPN de 5Gbps introduzida no final de 2025](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-site-to-site-vpn-5-gbps-tunnels-to-support-high-throughput-workloads/)
+- [VPN conscentrator, cujo objetivo é conectar 25+ sites, sem demanda de alta largura de banda](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-concentrator/)
