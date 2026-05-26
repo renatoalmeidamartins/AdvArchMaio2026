@@ -25,3 +25,4 @@
 - [Direct connect suporta 400 GB](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations/)
 - [Opções de conectividade da rede com VPC](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/network-to-amazon-vpc-connectivity-options.html)
 - [Teste de failover de conectividade](https://aws.amazon.com/blogs/networking-and-content-delivery/testing-aws-direct-connect-resiliency-with-resiliency-toolkit-failover-testing/)
+- [Exemplos adicionais de resiliencia com direct connect](https://aws.amazon.com/directconnect/resiliency-recommendation/)
