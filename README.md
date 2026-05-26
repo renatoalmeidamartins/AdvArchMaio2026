@@ -26,3 +26,8 @@
 - [Opções de conectividade da rede com VPC](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/network-to-amazon-vpc-connectivity-options.html)
 - [Teste de failover de conectividade](https://aws.amazon.com/blogs/networking-and-content-delivery/testing-aws-direct-connect-resiliency-with-resiliency-toolkit-failover-testing/)
 - [Exemplos adicionais de resiliencia com direct connect](https://aws.amazon.com/directconnect/resiliency-recommendation/)
+- [Conceito do Wavelenght](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/wavelength.html)
+- [Global view, onde se pode ver, ativar e desativar local zones e wavelength](https://aws.amazon.com/about-aws/whats-new/2025/09/manage-access-aws-regions-local-zones/)
+- [Anuncio da solucao de transit VPC, abandona faz bastante tempo](https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/)
+- [Implementacão da soluçao de transit VPC da cisco](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/aws/b_csraws_transitVPC/Deploying_Transit_VPC_for_AWS.html)
+- [VMWare Cloud on AWS foi abandonado, devido à mudança no modelo de licenciamento](https://aws.amazon.com/vmware/vmwarecloudonaws/)
