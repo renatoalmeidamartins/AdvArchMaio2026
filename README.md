@@ -23,3 +23,5 @@
 - [VPN conscentrator, cujo objetivo é conectar 25+ sites, sem demanda de alta largura de banda](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-concentrator/)
 - [Lançado o direct connect multiclod](https://aws.amazon.com/blogs/aws/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/)
 - [Direct connect suporta 400 GB](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations/)
+- [Opções de conectividade da rede com VPC](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/network-to-amazon-vpc-connectivity-options.html)
+- [Teste de failover de conectividade](https://aws.amazon.com/blogs/networking-and-content-delivery/testing-aws-direct-connect-resiliency-with-resiliency-toolkit-failover-testing/)
