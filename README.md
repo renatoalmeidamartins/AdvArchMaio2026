@@ -31,3 +31,4 @@
 - [Anuncio da solucao de transit VPC, abandona faz bastante tempo](https://aws.amazon.com/blogs/aws/aws-solution-transit-vpc/)
 - [Implementacão da soluçao de transit VPC da cisco](https://www.cisco.com/c/en/us/td/docs/routers/csr1000/software/aws/b_csraws_transitVPC/Deploying_Transit_VPC_for_AWS.html)
 - [VMWare Cloud on AWS foi abandonado, devido à mudança no modelo de licenciamento](https://aws.amazon.com/vmware/vmwarecloudonaws/)
+- [Transit gateway dashboards](https://docs.aws.amazon.com/network-manager/latest/tgwnm/nm-visualize-tgw.html)
