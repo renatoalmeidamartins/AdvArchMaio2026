@@ -42,3 +42,4 @@
 - [Dedicated instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html)
 - [Criando um agendador customizado para ECS](https://aws.amazon.com/blogs/compute/how-to-create-a-custom-scheduler-for-amazon-ecs/)
 - [Arquitetura de Kubernetes](https://kubernetes.io/docs/concepts/architecture/)
+- [Modos de rede em ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-networking.html) 
