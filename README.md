@@ -47,3 +47,7 @@
 - [Opcoes de DR na nuvem](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
 - [Aplicacaoo multi-regiao usando EKS](https://aws.amazon.com/blogs/containers/operating-a-multi-regional-stateless-application-using-amazon-eks/)
 - [Aplicacoes multi-regiao usando EKS e aurora global database](https://aws.amazon.com/blogs/database/part-1-scale-applications-using-multi-region-amazon-eks-and-amazon-aurora-global-database/)
+- [EKS auto-mode](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/?trk=d57158fd-77e3-423f-9e1e-005fd2a64d89&sc_channel=el)
+- [Deep dive de eks anywhere](https://pages.awscloud.com/Amazon-EKS-Anywhere-Deep-Dive_2021_1023-CON_OD.html?Languages=German)
+- [Repo do EKS anywhere](https://github.com/aws/eks-anywhere)
+- [EKS connector](https://github.com/aws/amazon-eks-connector)
