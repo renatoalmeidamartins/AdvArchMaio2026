@@ -51,3 +51,8 @@
 - [Deep dive de eks anywhere](https://pages.awscloud.com/Amazon-EKS-Anywhere-Deep-Dive_2021_1023-CON_OD.html?Languages=German)
 - [Repo do EKS anywhere](https://github.com/aws/eks-anywhere)
 - [EKS connector](https://github.com/aws/amazon-eks-connector)
+- [Accelerate - livro que define as metricas e pesquisa por tras do state of devops report](https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations/dp)
+- [Video que "lança' o movimento devops](https://www.youtube.com/watch?v=LdOe18KhtT4)
+- [O projecto fenix](https://www.amazon.com.br/projeto-f%C3%AAnix-comemorativa-romance-neg%C3%B3cio/)
+- [Projeto unicornio, o lado de dev da empresa do projecto fenix](https://www.amazon.com.br/projeto-unic%C3%B3rnio-romance-desenvolvedores-disrup%C3%A7%C3%A3o/)
+- [Manual de devops](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas)
