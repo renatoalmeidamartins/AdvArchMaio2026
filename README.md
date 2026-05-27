@@ -34,4 +34,10 @@
 - [Transit gateway dashboards](https://docs.aws.amazon.com/network-manager/latest/tgwnm/nm-visualize-tgw.html)
 - [OCI - open container initiative](https://opencontainers.org/)
 - [Dockerfile](https://docs.docker.com/reference/dockerfile/)
+## Links do dia 3
+- [Public ECR gallery](https://gallery.ecr.aws/search)
+- [Quotas introduzidas no fim de 2020 pela Docker, levaram a criacao do public ecr e public gallery](https://aws.amazon.com/blogs/containers/advice-for-customers-dealing-with-docker-hub-rate-limits-and-a-coming-soon-announcement/)
+- [Dedicated EC2 hosts](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-hosts-overview.html)
+- [Virtualizacão aninhada em EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-nested-virtualization.html)
+- [Dedicated instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html)
 - 
