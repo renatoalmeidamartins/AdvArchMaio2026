@@ -43,3 +43,7 @@
 - [Criando um agendador customizado para ECS](https://aws.amazon.com/blogs/compute/how-to-create-a-custom-scheduler-for-amazon-ecs/)
 - [Arquitetura de Kubernetes](https://kubernetes.io/docs/concepts/architecture/)
 - [Modos de rede em ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-networking.html) 
+- [Global accelerator para aplicacoes multi-regiao](https://aws.amazon.com/blogs/networking-and-content-delivery/deploying-multi-region-applications-in-aws-using-aws-global-accelerator/)
+- [Opcoes de DR na nuvem](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-options-in-the-cloud.html)
+- [Aplicacaoo multi-regiao usando EKS](https://aws.amazon.com/blogs/containers/operating-a-multi-regional-stateless-application-using-amazon-eks/)
+- [Aplicacoes multi-regiao usando EKS e aurora global database](https://aws.amazon.com/blogs/database/part-1-scale-applications-using-multi-region-amazon-eks-and-amazon-aurora-global-database/)
