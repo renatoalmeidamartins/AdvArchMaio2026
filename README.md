@@ -68,4 +68,5 @@
 - [Função lambda para agilizar envolvimento do suporte do shield advanced](https://s3.amazonaws.com/aws-shield-lambda/ShieldEngagementLambda.pdf)
 - [Chaves multi-região no KMS](https://aws.amazon.com/blogs/security/encrypt-global-data-client-side-with-aws-kms-multi-region-keys/)
 - [KMS é certificado como FIPS 140-3 nivel 3](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
-- [Intervalos customizados de rotação de chaves no KMS](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/) 
+- [Intervalos customizados de rotação de chaves no KMS](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
+- [Reduzindo custos de criptografia em S3 usando KMS bucket keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
