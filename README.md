@@ -60,3 +60,4 @@
 - [X-ray transformou-se em OpenTelemtry](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 - [Q developer foi abandado e surge o Kiro](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
 - [CodeDeploy appspec hooks](https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file-structure-hooks.html)
+- [TaskCat, para testar stacks de cloud formation em multiplas regioes](https://aws-ia.github.io/taskcat/)
