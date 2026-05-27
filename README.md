@@ -40,4 +40,5 @@
 - [Dedicated EC2 hosts](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-hosts-overview.html)
 - [Virtualizacão aninhada em EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-nested-virtualization.html)
 - [Dedicated instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html)
-- 
+- [Criando um agendador customizado para ECS](https://aws.amazon.com/blogs/compute/how-to-create-a-custom-scheduler-for-amazon-ecs/)
+- [Arquitetura de Kubernetes](https://kubernetes.io/docs/concepts/architecture/)
