@@ -57,3 +57,4 @@
 - [Projeto unicornio, o lado de dev da empresa do projecto fenix](https://www.amazon.com.br/projeto-unic%C3%B3rnio-romance-desenvolvedores-disrup%C3%A7%C3%A3o/)
 - [Manual de devops](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas)
 - [Code commit abandonado e readotado](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+- [X-ray transformou-se em OpenTelemtry](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
