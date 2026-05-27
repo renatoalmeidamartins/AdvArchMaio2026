@@ -64,3 +64,4 @@
 - [Até abril de 2023, cada ACL do WAF suportava apenas 1500 CUs, agora suporta 5000, com custo extra acima de 15000](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/)
 - [Entendendo os planos de proteção e a protecao estendida do guard duty](https://aws.amazon.com/blogs/security/navigating-amazon-guardduty-protection-plans-and-extended-threat-detection/)
 - [O guard duty original, agora se chama foundational, e tem como fontes de dados: cloudtrail, dns e vpc flow logs](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_data-sources.html)
+- [Automação de WAF baseado em findings do guard duty](https://aws.amazon.com/blogs/security/how-to-use-amazon-guardduty-and-aws-waf-v2-to-automatically-block-suspicious-hosts/)
