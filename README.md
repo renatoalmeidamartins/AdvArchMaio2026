@@ -92,3 +92,4 @@
 - [TCO and cost optimization: Best practices for managing usage on AWS](https://aws.amazon.com/blogs/publicsector/tco-cost-optimization-best-practices-for-managing-usage/)
 - [Lambda managed instances, que permitem o uso de mais memória](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/)
 - [Planos de cloudfront, apresentados em fins de 2025](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/)
+- [Cloudfront OAC e OAI, para que possa ter uma identidade utiliável em politicas de bucket](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
