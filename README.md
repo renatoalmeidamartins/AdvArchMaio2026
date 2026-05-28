@@ -90,4 +90,5 @@
 - [Storage class analysis no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-analytics-storage-class.html)
 - [Configuração do S3 inventory](https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-inventory.html)
 - [TCO and cost optimization: Best practices for managing usage on AWS](https://aws.amazon.com/blogs/publicsector/tco-cost-optimization-best-practices-for-managing-usage/)
+- [Lambda managed instances, que permitem o uso de mais memória](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/)
 - 
