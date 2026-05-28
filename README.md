@@ -76,3 +76,4 @@
 - [Uso do CloudHSM para TDE no Oracle](https://docs.aws.amazon.com/cloudhsm/latest/userguide/oracle-tde.html)
 - [Servicos que usam o secrets manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating.html), a maioria deles não rotaciona automático, e você precisa informar uma função de rotação baseado em um dos [modelos de Lambda de rotação](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [S3 storage lens](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
+- [Operacoes suportadas no S3 Batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-operations.html)
