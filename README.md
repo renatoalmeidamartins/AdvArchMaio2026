@@ -77,3 +77,9 @@
 - [Servicos que usam o secrets manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating.html), a maioria deles não rotaciona automático, e você precisa informar uma função de rotação baseado em um dos [modelos de Lambda de rotação](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
 - [S3 storage lens](https://aws.amazon.com/blogs/aws/s3-storage-lens/)
 - [Operacoes suportadas no S3 Batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-operations.html)
+- [S3 agora suporta objetos com até 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
+- Alem dos buckets general purpose do S3, há os seguintes tipos (vector e files já mencionados no dia 1):
+  - [S3 files](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
+  - [S3 tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+  - [S3 vectors](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+  - [Directory bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/directory-buckets-overview.html)
