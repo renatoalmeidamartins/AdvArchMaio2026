@@ -86,3 +86,6 @@
 - [Guia do mochileiro do data lake (onde fala de storage account, leia S3)](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
 - [Arquitetura medallion](https://www.databricks.com/blog/what-is-medallion-architecture-article)
 - [Blueprints no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html)
+- [Ativação de tags de custo definidas pelo usuario](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/activating-tags.html)
+- [Storage class analysis no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-analytics-storage-class.html)
+- [Configuração do S3 inventory](https://docs.aws.amazon.com/AmazonS3/latest/userguide/configure-inventory.html)
