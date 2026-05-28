@@ -70,3 +70,9 @@
 - [KMS é certificado como FIPS 140-3 nivel 3](https://aws.amazon.com/blogs/security/aws-kms-now-fips-140-2-level-3-what-does-this-mean-for-you/)
 - [Intervalos customizados de rotação de chaves no KMS](https://aws.amazon.com/blogs/security/the-curious-case-of-faster-aws-kms-symmetric-key-rotation/)
 - [Reduzindo custos de criptografia em S3 usando KMS bucket keys](https://aws.amazon.com/blogs/storage/reducing-aws-key-management-service-costs-by-up-to-99-with-s3-bucket-keys/)
+## Links do dia 4
+- [Ainda que CloudHSM possa ser criado numa região, talvez não esteja disponível na az que foi escolhida](https://docs.aws.amazon.com/cloudhsm/latest/userguide/regions.html)
+- [Arquitetura para criptografia de bancos de dados na AWS](https://aws.amazon.com/blogs/security/architecting-for-database-encryption-on-aws/)
+- [Uso do CloudHSM para TDE no Oracle](https://docs.aws.amazon.com/cloudhsm/latest/userguide/oracle-tde.html)
+- [Servicos que usam o secrets manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/integrating.html), a maioria deles não rotaciona automático, e você precisa informar uma função de rotação baseado em um dos [modelos de Lambda de rotação](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html)
+- 
