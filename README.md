@@ -83,3 +83,6 @@
   - [S3 tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
   - [S3 vectors](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
   - [Directory bucket](https://docs.aws.amazon.com/AmazonS3/latest/userguide/directory-buckets-overview.html)
+- [Guia do mochileiro do data lake (onde fala de storage account, leia S3)](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/)
+- [Arquitetura medallion](https://www.databricks.com/blog/what-is-medallion-architecture-article)
+- [Blueprints no lake formation](https://docs.aws.amazon.com/lake-formation/latest/dg/workflows-about.html)
