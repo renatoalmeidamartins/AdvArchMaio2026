@@ -1,5 +1,8 @@
 # AdvArchMaio2026
 
+
+  - 
+- 
 ## Links de material e estrutura do curso
 - [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/adQ6wUwTeEKooJqgH9xr75)
 - [Online course supplement, com materiais adicionais (perguntas, videos, links) bem interessantes](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/)
@@ -93,3 +96,6 @@
 - [Lambda managed instances, que permitem o uso de mais memória](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/)
 - [Planos de cloudfront, apresentados em fins de 2025](https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-flat-rate-pricing-plans-with-no-overages/)
 - [Cloudfront OAC e OAI, para que possa ter uma identidade utiliável em politicas de bucket](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)
+## Link do dia 5
+- [URLs assinadas no cloudfront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html)
+- [Field level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
