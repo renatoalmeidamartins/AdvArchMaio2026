@@ -14,7 +14,7 @@
 - [Qualtrics, avaliação da AWS](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=72666296-b162-43e0-938f-44997266c8c2&Q_Language=PT)
  
 ## Links de material e estrutura do curso
-- [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/adQ6wUwTeEKooJqgH9xr75)
+- [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/adQ6wUwTeEKooJqgH9xr75). Labs disponíveis até 26 de junho de 2026
 - [Online course supplement, com materiais adicionais (perguntas, videos, links) bem interessantes, além dos projetos finais](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/)
 - [Trilha de preparação para a certificação Architect pro  no Skill Builder](https://skillbuilder.aws/category/exam-prep/solutions-architect-professional-SAP-C02)
 
