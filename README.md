@@ -1,5 +1,12 @@
 # AdvArchMaio2026
 
+
+## Meus dados de contato:
+
+## Preparação para o exame
+- [4-step plan definido no skill builder](https://skillbuilder.aws/category/exam-prep/solutions-architect-professional-SAP-C02): aqui tem um monte de treinamentos e conteúdo, alguns vão estar disponíveis apenas para quem tem assinatura do skill builder (cerca de 30 dolares por mess) e traz laboratórios, além de uma preparação final, com 65 questões
+- [Link direto do skill builder para o simulado de exame, com 20 questòes, gratuito](https://skillbuilder.aws/learn/8KM7DRV9BQ/official-practice-question-set-aws-certified-solutions-architect--professional-sapc02--english/U1GHCBJRMP)
+
 ## Avaliação do curso:
 - [Metrics that matter, avaliação da Fast Lane](https://www.metricsthatmatter.com/url/u.aspx?00498F4E0236157654)
 - [Qualtrics, avaliação da AWS](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=72666296-b162-43e0-938f-44997266c8c2&Q_Language=PT)
@@ -102,3 +109,16 @@
 - [Field level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
 - [Politicas de cloudfront, determinam itens como TTL, cache key settings - headers, cookies, query strings - e compressão](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
 - [Roteiros passo-a-passo para migração usando DMS](https://docs.aws.amazon.com/dms/latest/sbs/dms-sbs-welcome.html)
+- [Guia - prescriptive guidance - para avaliar "prontidão" para modernização](https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-assessing-applications/welcome.html)
+- [Descrição de um processo de avaliação de prontidão para clientes](https://aws.amazon.com/blogs/apn/how-aws-partners-can-conduct-a-high-quality-cloud-readiness-assessment-for-customers/)
+- Diversos recursos de migração no livro ou foram descontinuados, ou agora estão disponíveis apenas para parceiros:
+ - Completamente abandonado:
+   - [CART - cloud adoption readiness tool](- Cloud Readiness Assessment (CRA) --> c)
+   - [VMWare Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/)
+   - [Snowball](https://docs.aws.amazon.com/snowball/latest/developer-guide/whatisedge.html), sugere-se data [transfer terminal](https://aws.amazon.com/data-transfer-terminal/) ou [data sync](https://aws.amazon.com/datasync/)
+ - Disponíveis apenas para parceiros:  
+  - Migration Readiness Assessment (MRA) --> se tornou o [Migration Evaluator](https://aws.amazon.com/migration-evaluator/), de forma oficial. O MRA ainda pode ser lançado pelo Marketplace (p. ex. [aqui](https://aws.amazon.com/marketplace/pp/prodview-6ntaatfycmn3w))
+  - [Migration Portfolio Assessment](https://accelerate.amazonaws.com/portal/signin?appId=mpa) (MPA)
+  - [Migration evaluator](https://aws.amazon.com/migration-evaluator/)
+ - Consolidados no [Transform, como poderes de IA](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/), e mais um pouco sobre o [Transform](https://aws.amazon.com/transform/) estes são:
+  - [Application Discovery Service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
