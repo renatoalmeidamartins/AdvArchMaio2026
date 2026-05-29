@@ -99,3 +99,4 @@
 ## Link do dia 5
 - [URLs assinadas no cloudfront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html)
 - [Field level encryption](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
+- [Politicas de cloudfront, determinam itens como TTL, cache key settings - headers, cookies, query strings - e compressão](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html)
