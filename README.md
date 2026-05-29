@@ -2,6 +2,8 @@
 
 
 ## Meus dados de contato:
+- email: renatoalmeidamartins@gmail.com
+- [Prefil no linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
 
 ## Preparação para o exame
 - [4-step plan definido no skill builder](https://skillbuilder.aws/category/exam-prep/solutions-architect-professional-SAP-C02): aqui tem um monte de treinamentos e conteúdo, alguns vão estar disponíveis apenas para quem tem assinatura do skill builder (cerca de 30 dolares por mess) e traz laboratórios, além de uma preparação final, com 65 questões
