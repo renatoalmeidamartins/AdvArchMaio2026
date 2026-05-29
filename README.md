@@ -15,7 +15,7 @@
  
 ## Links de material e estrutura do curso
 - [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/adQ6wUwTeEKooJqgH9xr75)
-- [Online course supplement, com materiais adicionais (perguntas, videos, links) bem interessantes](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/)
+- [Online course supplement, com materiais adicionais (perguntas, videos, links) bem interessantes, além dos projetos finais](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/)
 - [Trilha de preparação para a certificação Architect pro  no Skill Builder](https://skillbuilder.aws/category/exam-prep/solutions-architect-professional-SAP-C02)
 
 ## Links dia 1
@@ -115,11 +115,11 @@
 - [Descrição de um processo de avaliação de prontidão para clientes](https://aws.amazon.com/blogs/apn/how-aws-partners-can-conduct-a-high-quality-cloud-readiness-assessment-for-customers/)
 - Diversos recursos de migração no livro ou foram descontinuados, ou agora estão disponíveis apenas para parceiros:
   - Completamente abandonado:
-    - [CART - cloud adoption readiness tool](- Cloud Readiness Assessment (CRA) --> c)
-    - [VMWare Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/)
+    - [CART - cloud adoption readiness tool](https://aws.amazon.com/blogs/publicsector/get-migration-ready-aws-cloud-adoption-readiness-tool/)
+    - [VMWare Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/), um serviço de migração foi criado (Elastic VMWare Service)[https://aws.amazon.com/evs/]. Importante notar que, ao contrário do que era oferecido pelo VMWare Cloud, este é uma migração enquanto aquele era uma extensão
     - [Snowball](https://docs.aws.amazon.com/snowball/latest/developer-guide/whatisedge.html), sugere-se data [transfer terminal](https://aws.amazon.com/data-transfer-terminal/) ou [data sync](https://aws.amazon.com/datasync/)
   - Disponíveis apenas para parceiros:  
     - Migration Readiness Assessment (MRA) --> se tornou o [Migration Evaluator](https://aws.amazon.com/migration-evaluator/), de forma oficial. O MRA ainda pode ser lançado pelo Marketplace (p. ex. [aqui](https://aws.amazon.com/marketplace/pp/prodview-6ntaatfycmn3w))
     - [Migration Portfolio Assessment](https://accelerate.amazonaws.com/portal/signin?appId=mpa) (MPA)
     - [Migration evaluator](https://aws.amazon.com/migration-evaluator/)
-  - Consolidados no [Transform, como poderes de IA](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/), e mais um pouco sobre o [Transform](https://aws.amazon.com/transform/), o [Application Discovery Service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
+  - O [Transform, com poderes de IA](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/), absorveu o [Application Discovery Service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html) e alguns outros serviços. Mais sobre o [Transform](https://aws.amazon.com/transform/), 
