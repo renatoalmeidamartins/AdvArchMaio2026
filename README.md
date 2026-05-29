@@ -119,7 +119,7 @@
     - [VMWare Cloud on AWS](https://aws.amazon.com/vmware/vmwarecloudonaws/)
     - [Snowball](https://docs.aws.amazon.com/snowball/latest/developer-guide/whatisedge.html), sugere-se data [transfer terminal](https://aws.amazon.com/data-transfer-terminal/) ou [data sync](https://aws.amazon.com/datasync/)
   - Disponíveis apenas para parceiros:  
-   - Migration Readiness Assessment (MRA) --> se tornou o [Migration Evaluator](https://aws.amazon.com/migration-evaluator/), de forma oficial. O MRA ainda pode ser lançado pelo Marketplace (p. ex. [aqui](https://aws.amazon.com/marketplace/pp/prodview-6ntaatfycmn3w))
-   - [Migration Portfolio Assessment](https://accelerate.amazonaws.com/portal/signin?appId=mpa) (MPA)
-   - [Migration evaluator](https://aws.amazon.com/migration-evaluator/)
+    - Migration Readiness Assessment (MRA) --> se tornou o [Migration Evaluator](https://aws.amazon.com/migration-evaluator/), de forma oficial. O MRA ainda pode ser lançado pelo Marketplace (p. ex. [aqui](https://aws.amazon.com/marketplace/pp/prodview-6ntaatfycmn3w))
+    - [Migration Portfolio Assessment](https://accelerate.amazonaws.com/portal/signin?appId=mpa) (MPA)
+    - [Migration evaluator](https://aws.amazon.com/migration-evaluator/)
   - Consolidados no [Transform, como poderes de IA](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/), e mais um pouco sobre o [Transform](https://aws.amazon.com/transform/), o [Application Discovery Service](https://docs.aws.amazon.com/application-discovery/latest/userguide/what-is-appdiscovery.html)
