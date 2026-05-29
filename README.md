@@ -1,8 +1,9 @@
 # AdvArchMaio2026
 
-
-  - 
-- 
+## Avaliação do curso:
+- [Metrics that matter, avaliação da Fast Lane](https://www.metricsthatmatter.com/url/u.aspx?00498F4E0236157654)
+- [Qualtrics, avaliação da AWS](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=72666296-b162-43e0-938f-44997266c8c2&Q_Language=PT)
+ 
 ## Links de material e estrutura do curso
 - [Acesso ao material e laboratórios](https://us-east-1.student.classrooms.aws.training/class/adQ6wUwTeEKooJqgH9xr75)
 - [Online course supplement, com materiais adicionais (perguntas, videos, links) bem interessantes](https://skillbuilder.aws/learn/DCVNQSAWWN/advanced-architecting-on-aws--online-course-supplement/)
